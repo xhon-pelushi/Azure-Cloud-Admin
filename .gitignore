@@ -1,0 +1,57 @@
+# Azure credentials
+*.publishsettings
+*.pfx
+*.key
+
+# PowerShell
+*.ps1.bak
+
+# Logs
+*.log
+logs/
+
+# Config files with secrets
+config.json
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
